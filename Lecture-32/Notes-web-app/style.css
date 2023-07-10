@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(180, 223, 223);
+}
+h1{
+    margin-top: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(41, 83, 128);
+}
+
+input{
+    border: solid;
+    text-align:start;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 490px;
+    justify-content: center;
+    align-items: center;
+    padding-right: 200px;
+}
+#title{
+    text-align: center;
+}
+#add-btn{
+    border: solid;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#list{
+    margin-left: 730px;
+    justify-content: center;
+    align-items: center;
+    padding-right: 200px;
+}
